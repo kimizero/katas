@@ -1,0 +1,2 @@
+# katas
+Collections of Kata
